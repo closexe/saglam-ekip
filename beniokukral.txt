@@ -1,0 +1,3 @@
+kral selam botu kullanmak için ilk başta pek bilmiyorsan eğer bot işlerini kullanmadıysan yapmadıysan bilgisayarına node.js indirmelisin onu indirip kurduktan sonra ben sana özel bir baslat dosyası hazırlıcam vds kurduğunda bot kapanmasın diye onu çalıştırıp arkaplanı siyah olucak o dosyanın cmd diye bu onu açık tutucak virüs falan değil merak etme dostumuza dostuma rat atıcak kadar düşmedim Allah'ıma şükür botun çalışması için gerekli modülleri falan da indirdim sen direk baslat.bat çalıştır ve kullan kral 
+
+ayarlar.json kısmını doldurmayı unutma
